@@ -24,6 +24,8 @@ I have also been working a bit in Golang for fun.
 
 Exploring open source in these spaces.
 
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camggould&theme=dracula&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats)
+
 ### Plugs
 
 - [Check out my website](https://www.camggould.com/) for more info about me.
