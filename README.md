@@ -30,5 +30,5 @@ Exploring open source in these spaces.
 
 - [Check out my website](https://www.camggould.com/) for more info about me.
 - [Read my blog](https://www.camggould.com/blog/). It's not too frequent, but has an occasional gem. No LLMs are used in the writing process ;)
-- [Here is my LinkedIn](linkedin.com/in/cameron-gould) for career updates.
+- [Here is my LinkedIn](https://www.linkedin.com/in/cameron-gould) for career updates.
 - [I am actively expanding into communities on BlueSky](https://bsky.app/profile/camggould.com), which is exciting!
