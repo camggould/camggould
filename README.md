@@ -22,7 +22,7 @@ I have also been working a bit in Golang for fun.
 - Decentralization
 - Cryptography
 
-Exploring open source in these spaces.
+Exploring open source in these spaces. Currently exploring Golang and the world of audio.
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camggould&theme=dracula&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats)
 
