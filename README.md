@@ -12,6 +12,8 @@ This is my official GitHub. I recently created a new one because my old one was 
 - Distributed systems backend development
 - Java, Rust, TypeScript, Python, Ruby
 - Postgres, DynamoDB, S3, Lambda, Fargate... if it's on AWS I probably used it :) (only joking).
+- Worked on audio workflows with Audible.com
+- Worked on malware protection services with AWS
 
 I have also been working a bit in Golang for fun.
 
