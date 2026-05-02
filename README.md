@@ -8,6 +8,11 @@ This is my official GitHub. I recently created a new one because my old one was 
 ### Experience
 
 As of March 2026, I have been busy building cutting edge AI solutions with Oracle.
+- Java, Python
+- Micronaut, Oracle ADB, OCI Queues, OCI Functions, OCI Notifications, OCI Generative AI
+- Codex, LangGraph, LangSmith, LangChain
+- Skills, Plugins, Context Engineering, Subagents, Agent orchestration
+- OWASP-guided security measures for Agentic applications
 
 4 years of experience at Amazon.
 - Full-stack web development
